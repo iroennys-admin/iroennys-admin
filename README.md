@@ -1,210 +1,135 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  I R O E N N Y S   P R O F I L E   R E A D M E  ░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░  IROENNYS · GALAXY PROFILE  ·  v3.0                                ░░ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ HEADER WAVE ANIMATION ▓▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:9D4EDD,100:C77DFF&height=260&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=30"/>
-
-<!-- ▓▓▓ AVATAR WITH GLOW ▓▓▓ -->
-<a href="https://github.com/iroennys-admin">
-  <img src="https://github.com/iroennys-admin.png" width="160" style="border-radius:50%; border:4px solid #9D4EDD; box-shadow: 0 0 25px #9D4EDD, 0 0 50px #7B2FF7, 0 0 80px #5C2D91;"/>
-</a>
-
-<br/><br/>
-
-<!-- ▓▓▓ NAME WITH TYPING ▓▓▓ -->
-<a href="https://github.com/iroennys-admin">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=800&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Iroennys+Rivas+Ram%C3%ADrez;%F0%9F%91%81%EF%B8%8F+Developer+%26+Automation+Architect" alt="Typing SVG"/>
-</a>
+<!-- ◆ HEADER NEBULA ◆ -->
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0420,30:1a0b3d,60:7B2FF7,100:C77DFF&height=240&section=header&text=&fontSize=0&animation=twinkling" />
 
 <br/>
 
-<!-- ▓▓▓ SUBTITLE TYPING ▓▓▓ -->
+<!-- ◆ AVATAR ORBITING A PURPLE NEBULA (custom SVG, fully animated) ◆ -->
 <a href="https://github.com/iroennys-admin">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=9D4EDD&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Python+%E2%80%A2+Telegram+Bots+%E2%80%A2+Cloud+Integration;Building+tools+that+break+barriers+%F0%9F%9A%80;Automating+the+impossible+%E2%8A%B9+%CE%A9;From+Cuba+%F0%9F%87%A8%F0%9F%87%BA+to+the+world+%F0%9F%8C%90" alt="Subtitle Typing"/>
+  <img alt="avatar-orbit" width="340" src="./assets/avatar-orbit.svg" />
 </a>
 
 <br/><br/>
 
-<!-- ▓▓▓ VISITOR BADGE + STATUS ▓▓▓ -->
-<img src="https://komarev.com/ghpvc/?username=iroennys-admin&style=for-the-badge&color=C77DFF&label=VISITORS&labelColor=7B2FF7" alt="Visitors"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/%E2%97%86%20ONLINE-Right%20Now-C77DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=5C2D91" alt="Online"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/%E2%97%86%20STATUS-Available-9D4EDD?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e" alt="Status"/>
-
-<br/><br/>
-
-<!-- ▓▓▓ SPOTIFY NOW PLAYING - REAL TIME ▓▓▓ -->
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanapi.com/api/view?uid=31j5tx4gzabxwul2o5gvo7ite&cover_image=true&theme=novatorem&bar_color=C77DFF&bar_color_cover=false" width="340" alt="Spotify Now Playing"/>
-</a>
-
-<br/><br/>
-
-<!-- ▓▓▓ DIVIDER ▓▓▓ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  A B O U T   M E  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtzw/giphy.gif" width="40"> &nbsp; Sobre M&iacute;
-
-```yaml
-╭──────────────────────────────────────────────╮
-│  name:     Iroennys Rivas Ramírez            │
-│  location: 🇨🇺 Cuba                         │
-│  role:     Developer & Automation Architect  │
-│  focus:    AI • Bots • Cloud • Automation    │
-│  motto:    "Automate everything, manually"   │
-│  fun_fact: I code on a phone with Termux 📱  │
-╰──────────────────────────────────────────────╯
-```
-
-<br/>
-
-<!-- ▓▓▓ ANIMATED ABOUT CARD ▓▓▓ -->
+<!-- ◆ NAME (typing) ◆ -->
 <a href="https://github.com/iroennys-admin">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=9D4EDD&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%9C%A6+Building+Telegram+bots+that+serve+thousands+%E2%9C%A6;%E2%9C%A6+Automating+workflows+with+Python+%E2%88%9E+%E2%9C%A6;%E2%9C%A6+Turning+ Termux+into+a+dev+powerhouse+%F0%9F%93%B1+%E2%9C%A6;%E2%9C%A6+If+it+can+be+automated%2C+I+will+%E2%8A%B9+%E2%9C%A6" alt="About Typing"/>
+  <img alt="name"
+       src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=44&pause=900&color=C77DFF&center=true&vCenter=true&width=900&height=70&lines=I+R+O+E+N+N+Y+S" />
+</a>
+
+<!-- ◆ SUBTITLE (rotating cosmic quotes) ◆ -->
+<a href="https://github.com/iroennys-admin">
+  <img alt="subtitle"
+       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=40&lines=%E2%9C%A6+wandering+through+the+digital+cosmos+%E2%9C%A6;%E2%9C%A6+turning+caffeine+into+constellations+%E2%9C%A6;%E2%9C%A6+building+things+that+shouldn%27t+exist+yet+%E2%9C%A6;%E2%9C%A6+from+a+small+blue+dot+%E2%80%94+to+anywhere+%E2%9C%A6;%E2%9C%A6+%E2%88%9E+%E2%80%A2+%E2%8A%B9+%E2%80%A2+%CE%A9+%E2%80%A2+%E2%97%86+%E2%80%A2+%E2%88%9E+%E2%9C%A6" />
 </a>
 
 <br/><br/>
 
-<!-- ▓▓▓ DIVIDER ▓▓▓ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ◆ STATUS PILLS ◆ -->
+<img alt="visitors" src="https://komarev.com/ghpvc/?username=iroennys-admin&style=for-the-badge&color=C77DFF&label=COSMIC+VISITORS&labelColor=1a0b3d"/>
+&nbsp;
+<img alt="online" src="https://img.shields.io/badge/%E2%97%86%20signal-online-C77DFF?style=for-the-badge&logo=starship&logoColor=white&labelColor=5C2D91"/>
+&nbsp;
+<img alt="orbit" src="https://img.shields.io/badge/%E2%97%86%20orbit-stable-9D4EDD?style=for-the-badge&logo=spacex&logoColor=white&labelColor=1a0b3d"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  G I T H U B   S T A T S  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<br/><br/>
 
-### <img src="https://media.giphy.com/media/qLQU1BKtp8LCpE2V4T/giphy.gif" width="28"> &nbsp; Estad&iacute;sticas
+<!-- ◆ CONSTELLATION CONNECTING ITSELF (custom SVG) ◆ -->
+<img width="100%" alt="constellation" src="./assets/constellation.svg" />
 
-<p align="center">
-  <a href="https://github.com/iroennys-admin">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iroennys-admin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=9D4EDD&text_color=c9d1d9&ring_color=7B2FF7&include_all_commits=true&count_private=true&line_height=30&custom_title=%E2%97%86%20GitHub%20Stats&animation=2000&hide=issues,contribs" alt="Stats"/>
-  </a>
-  <a href="https://github.com/iroennys-admin">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iroennys-admin&theme=midnight-purple&hide_border=true&background=0D1117&ring=C77DFF&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=c9d1d9&dates=555555&stroke=7B2FF7" alt="Streak"/>
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/iroennys-admin">
-    <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=iroennys-admin&bg_color=0d1117&color=C77DFF&line=9D4EDD&point=ffffff&area=true&hide_border=true&custom_title=%E2%97%86%20Activity%20Graph&theme=react-dark" alt="Activity Graph"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iroennys-admin">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iroennys-admin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=C77DFF&text_color=c9d1d9&langs_count=10&custom_title=%E2%97%86%20Top%20Languages" alt="Top Languages"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=iroennys-admin&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
-  </a>
-</p>
+<!-- ◆ DIVIDER (sliding glow blob) ◆ -->
+<img width="100%" alt="divider" src="./assets/divider.svg" />
 
 <br/>
 
-<!-- ▓▓▓ DIVIDER ▓▓▓ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░  HEARTBEAT                                                          ░░ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  T E C H   S T A C K  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img width="800" alt="heartbeat" src="./assets/heartbeat.svg" />
 
-### <img src="https://media2.giphy.com/media/QssGE5kyiE7vMy9Q5t/giphy.gif" width="25"> &nbsp; Tech Arsenal
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,go,java,c,bash&theme=dark&perline=7" alt="Languages"/>
-</p>
+<!-- ◆ COSMIC STATS / FAUX TELEMETRY (typing) ◆ -->
+<a href="https://github.com/iroennys-admin">
+  <img alt="telemetry"
+       src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%E2%97%87+coordinates+%3A+somewhere+between+0+and+1;%E2%97%87+frequency++%3A+1+commit+%2F+heartbeat;%E2%97%87+mass++++++++%3A+pure+curiosity;%E2%97%87+state++++++%3A+entangled+with+the+terminal" />
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,tailwind&theme=dark&perline=6" alt="Frameworks"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,postgres,sqlite,githubactions,vscode&theme=dark&perline=8" alt="Tools"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,vercel&theme=dark&perline=4" alt="Cloud"/>
-</p>
+<!-- ◆ DIVIDER ◆ -->
+<img width="100%" alt="divider" src="./assets/divider.svg" />
 
 <br/>
 
-<!-- ▓▓▓ DIVIDER ▓▓▓ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  S N A K E   A N I M A T I O N  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-### <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="28"> &nbsp; Contribution Snake
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░  CONTRIBUTION SNAKE (lives in `output` branch — purely visual)      ░░ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iroennys-admin/iroennys-admin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iroennys-admin/iroennys-admin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iroennys-admin/iroennys-admin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/iroennys-admin/iroennys-admin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/iroennys-admin/iroennys-admin/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/iroennys-admin/iroennys-admin/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
+<br/><br/>
 
-<!-- ▓▓▓ DIVIDER ▓▓▓ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  P I N N E D   P R O J E C T S  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"> &nbsp; Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/iroennys-admin/opencode-termux">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iroennys-admin&repo=opencode-termux&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=9D4EDD&text_color=c9d1d9&ring_color=7B2FF7" alt="opencode-termux"/>
-  </a>
-</p>
+<!-- ◆ DIVIDER ◆ -->
+<img width="100%" alt="divider" src="./assets/divider.svg" />
 
 <br/>
 
-<!-- ▓▓▓ DIVIDER ▓▓▓ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░  SIGNALS (social links as cosmic transmissions)                     ░░ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░  C O N N E C T  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-### <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="30"> &nbsp; Conecta Conmigo
+### ◇&nbsp;&nbsp;transmit a signal
 
 <a href="https://github.com/iroennys-admin">
-  <img src="https://img.shields.io/badge/GitHub-iroennys--admin-C77DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=5C2D91" alt="GitHub"/>
+  <img alt="github"   src="https://img.shields.io/badge/%E2%97%86%20github-iroennys--admin-C77DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b3d"/>
 </a>
 &nbsp;
 <a href="https://t.me/iroennys">
-  <img src="https://img.shields.io/badge/Telegram-@iroennys-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e" alt="Telegram"/>
+  <img alt="telegram" src="https://img.shields.io/badge/%E2%97%86%20telegram-%40iroennys-7B2FF7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0b3d"/>
 </a>
 &nbsp;
 <a href="mailto:iroennys@proton.me">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email"/>
+  <img alt="email"    src="https://img.shields.io/badge/%E2%97%86%20signal-iroennys%40proton.me-9D4EDD?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1a0b3d"/>
 </a>
 
 <br/><br/>
 
-<!-- ▓▓▓ FOOTER WAVE ▓▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:9D4EDD,100:C77DFF&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░  COMET FOOTER                                                       ░░ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ ANIMATED FOOTER ▓▓▓ -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%97%86+Thanks+for+visiting!+%E2%97%86;See+you+in+the+code...+%E2%88%9E;Keep+building+%F0%9F%9A%80" alt="Footer Typing"/>
-</p>
+<img width="100%" alt="comet" src="./assets/comet.svg" />
 
-<!-- ▓▓▓ VISIT COUNTER ▓▓▓ -->
-<img src="https://visitcount.itsvg.in/api?id=iroennys-admin&icon=0&color=C77DFF" alt="Visit Count" width="0" height="0"/>
+<!-- ◆ FOOTER WAVE ◆ -->
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2FF7,100:0a0420&height=110&section=footer&text=&fontSize=0&animation=twinkling&reversal=true" />
+
+<!-- ◆ FAREWELL ◆ -->
+<a href="https://github.com/iroennys-admin">
+  <img alt="farewell"
+       src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=3000&pause=1500&color=C77DFF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%E2%88%9E+%C2%B7+see+you+among+the+stars+%C2%B7+%E2%88%9E;%E2%97%86+keep+orbiting+%E2%97%86" />
+</a>
 
 </div>
+
+<!--
+  ─────────────────────────────────────────────────────────────────────────
+  All animations are pure SVG (SMIL) + a few generator services.
+  No projects, no stats, no language breakdown — just cosmic vibes.
+  Custom SVGs live in /assets and render directly from this repo.
+  ─────────────────────────────────────────────────────────────────────────
+-->

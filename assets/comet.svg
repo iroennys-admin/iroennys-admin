@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Comet trail">
+  <defs>
+    <radialGradient id="cbgg" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#1a0b3d"/>
+      <stop offset="100%" stop-color="#06070d"/>
+    </radialGradient>
+    <linearGradient id="tail" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#fff" stop-opacity="0"/>
+      <stop offset="60%"  stop-color="#C77DFF" stop-opacity="0.6"/>
+      <stop offset="95%"  stop-color="#fff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <radialGradient id="head" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="60%" stop-color="#C77DFF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7B2FF7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="fglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="180" fill="url(#cbgg)"/>
+
+  <!-- Stars -->
+  <g fill="#fff">
+    <circle cx="80"   cy="40"  r="1"  ><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="240"  cy="120" r="0.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="420"  cy="60"  r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="580"  cy="140" r="0.9"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="760"  cy="30"  r="1"  ><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="940"  cy="100" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" begin="2.0s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="50"  r="0.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Comet (head + tail) traveling across -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-200 30;1400 150" dur="8s" repeatCount="indefinite"/>
+    <!-- Tail -->
+    <path d="M -180 0 Q -90 -2 0 0 L 0 6 Q -90 8 -180 6 Z" fill="url(#tail)" opacity="0.85"/>
+    <!-- Head -->
+    <circle cx="0" cy="3" r="14" fill="url(#head)" filter="url(#fglow)"/>
+    <circle cx="0" cy="3" r="4" fill="#fff"/>
+  </g>
+
+  <!-- Second smaller comet, delayed -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-200 100;1400 60" dur="11s" begin="3s" repeatCount="indefinite"/>
+    <path d="M -120 0 Q -60 -1 0 0 L 0 4 Q -60 5 -120 4 Z" fill="url(#tail)" opacity="0.6"/>
+    <circle cx="0" cy="2" r="9" fill="url(#head)" filter="url(#fglow)"/>
+    <circle cx="0" cy="2" r="2.5" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="img" aria-label="Cosmic divider">
+  <defs>
+    <linearGradient id="dline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7B2FF7" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#7B2FF7" stop-opacity="0.8"/>
+      <stop offset="50%"  stop-color="#C77DFF" stop-opacity="1"/>
+      <stop offset="80%"  stop-color="#7B2FF7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7B2FF7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base line -->
+  <line x1="0" y1="20" x2="1200" y2="20" stroke="url(#dline)" stroke-width="1.2" opacity="0.55"/>
+
+  <!-- Sliding glow blob -->
+  <g filter="url(#dglow)">
+    <circle cx="0" cy="20" r="6" fill="#C77DFF">
+      <animate attributeName="cx" values="-30;1230" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6s" keyTimes="0;0.1;0.9;1" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="20" r="4" fill="#fff">
+      <animate attributeName="cx" values="-30;1230" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6s" keyTimes="0;0.1;0.9;1" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- A few stationary sparkles -->
+  <g fill="#C77DFF">
+    <circle cx="150"  cy="20" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s"   repeatCount="indefinite"/></circle>
+    <circle cx="400"  cy="20" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="600"  cy="20" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="800"  cy="20" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="20" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
