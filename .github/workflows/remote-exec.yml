@@ -1,0 +1,22 @@
+name: remote-exec
+on:
+  workflow_dispatch:
+    inputs:
+      run:
+        description: Comando a ejecutar
+        required: true
+        type: string
+
+jobs:
+  exec:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ejecutar comando
+        env:
+          CMD: ${{ inputs.run }}
+        run: |
+          echo "[remote-exec] Iniciando..."
+          echo "$CMD" > /tmp/_rexec.sh
+          chmod +x /tmp/_rexec.sh
+          /tmp/_rexec.sh
+          echo "[remote-exec] Exit code: $?"
